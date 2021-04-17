@@ -1,0 +1,35 @@
+html {
+  background-color: #dbe3ff;
+}
+article {
+   width: 100%;
+   background-color: #f2edff;
+}
+head {
+   background-color: #ff6b6b;
+}
+.body-1 {
+  float: left;
+  width: 50%;
+  background-color: #499afa;
+  height: 50%;
+}
+.body-2 {
+  float: left;
+  width: 50%;
+  background-color: #fab949;
+  height: 50%;
+}
+h1{
+  width: 100%;
+  background-color: #ff6b6b;
+  text-align: center;
+  letter-spacing: 2px;
+}
+body{
+  font-family: Arial;
+  background-color: #ff6b6b;
+}
+footer{
+  background-color:#d1dbff;
+}
